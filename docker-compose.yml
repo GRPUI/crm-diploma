@@ -11,9 +11,6 @@ services:
     ports:
       - "80:80"
       - "443:443"
-    depends_on:
-      - react
-      - fastapi
 
   postgres-db:
     image: postgres:16.1-alpine
