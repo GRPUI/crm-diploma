@@ -1,0 +1,3 @@
+DATETIME_MASK = "HH:mm:ss DD-MM-YYYY"
+DATE_MASK = "DD-MM-YYYY"
+TIME_MASK = "HH:mm:ss"
